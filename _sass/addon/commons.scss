@@ -1,5 +1,5 @@
 /* The common styles */
-@import url('https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css');
+@import 'https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css';
 
 html {
   @media (prefers-color-scheme: light) {
@@ -693,8 +693,10 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: var(--sidebar-bg);
+
+  // background: var(--sidebar-bg);
   border-right: 1px solid var(--sidebar-border-color);
+
   /* background Image */
   background: url('../../assets/img/sidebar/background-image.gif');
   background-size: 200% 100%;
@@ -767,6 +769,7 @@ $btn-mb: 0.5rem;
 
   .site-subtitle {
     font-size: 95%;
+
     // 기본값
     // color: var(--site-title-color);
     color: white;
