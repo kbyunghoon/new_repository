@@ -719,6 +719,7 @@ $btn-mb: 0.5rem;
     width: 7rem;
     height: 7rem;
     overflow: hidden;
+    margin: auto;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
 
@@ -762,6 +763,14 @@ $btn-mb: 0.5rem;
     color: var(--site-subtitle-color);
     margin-top: 0.25rem;
     word-spacing: 1px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .site-subdescription {
+    margin-top: 0.5rem;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
