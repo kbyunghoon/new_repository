@@ -101,9 +101,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: kbyunghoon/kbyunghoon.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOMAi8eA
-    category: "General"
-    category_id: "DIC_kwDOMAi8eM4CfoOe"
+    repo_id: R_kgDOMA_ZWg
+    category: General
+    category_id: DIC_kwDOMA_ZWs4CfoRJ
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: ko # optional, default to the value of `site.lang`
