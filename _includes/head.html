@@ -123,6 +123,19 @@
   {% endif %}
 
   <!-- JavaScript -->
+  <!-- Google tag (gtag.js) -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-LWL1DT74V3"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
+    gtag("config", "G-LWL1DT74V3");
+  </script>
   {% include mode-toggle.html %} {% include metadata-hook.html %}
 </head>
