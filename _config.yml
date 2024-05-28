@@ -18,7 +18,7 @@ title: HoonK의 개발개발 # the main title
 
 title_name: HoonK
 
-tagline: 자바 기술블로그 # it will display as the sub-title
+tagline: Backend Developer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   자바 기술 공유하는 기술 블로그입니다.
