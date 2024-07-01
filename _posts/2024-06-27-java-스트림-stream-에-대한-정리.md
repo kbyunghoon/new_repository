@@ -2,9 +2,9 @@
 layout: post
 title: "[JAVA] 스트림(Stream)에 대한 정리"
 date: 2024-06-27 11:35 +0900
-description:
-category:
-tags:
+description: 자바 스트림(Stream)
+category: [JAVA]
+tags: [JAVA, 스트림, Stream]
 ---
 ## Stream()
 - 스트림이란?
