@@ -12,7 +12,7 @@ tags: [STS, Spring, 스프링, MVC]
 <br/>
 ![img](https://github.com/kbyunghoon/kbyunghoon.github.io/assets/79817983/ce11f9af-e70f-48ea-a06e-0e739fa28884)
 
-구글링을 하여 찾아보니 올해 2월 쯤부터 3.0xml을 다운로드 할 수 없는 문제가 생겨 안 뜬다고한다.
+구글링을 하여 찾아보니 올해 2월쯤부터 3.0 xml을 다운로드 할 수 없는 문제가 생겨 안 뜬다고한다.
 
 그래서 해결 방법 다 해보다가 해결 방법을 찾았다.
 

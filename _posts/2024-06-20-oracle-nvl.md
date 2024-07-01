@@ -3,7 +3,7 @@ layout: post
 title: "[오라클] NVL 함수"
 date: 2024-06-20 14:16 +0900
 description: 오라클 NVL 함수
-category: [ORACLE]
+category: [SQL]
 tags: [ORACLE,오라클]
 ---
 ## NVL함수란?
