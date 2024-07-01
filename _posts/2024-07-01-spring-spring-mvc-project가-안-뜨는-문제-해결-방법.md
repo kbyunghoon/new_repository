@@ -24,7 +24,7 @@ tags: [STS, Spring, 스프링, MVC]
 	- 윈도우 : 폴더 설정에서 숨김 파일 보이기 체크<br/> ![img](https://github.com/kbyunghoon/kbyunghoon.github.io/assets/79817983/ea817d1b-293d-4af7-bf9a-27b87dc1b0b4)
 
 4. 아래의 파일을 해당 폴더에 맞게 넣어준다.
-	- xml파일(<a id="download-link" href="/assets/file/https-content.xml" download>https-content.xml 다운로드하기</a>) -> `/워크스페이스폴더/.metadata/.plugins/org.springsource.ide.eclipse.commons.content.core`
+	- xml파일(<a id="download-link" href="/assets/file/https-content.xml" download>다운로드</a>) -> `/워크스페이스폴더/.metadata/.plugins/org.springsource.ide.eclipse.commons.content.core`
 
 <br/>
 ![img](https://github.com/kbyunghoon/kbyunghoon.github.io/assets/79817983/aa7eacc4-e5d6-4a91-b27e-1e838c4ab7ba)
@@ -32,5 +32,5 @@ tags: [STS, Spring, 스프링, MVC]
 - STS를 껐다 키면 정상적으로 보인다.<br/>
 ![img](https://github.com/kbyunghoon/kbyunghoon.github.io/assets/79817983/78a87a08-7e9a-4c4b-aa16-02bb1486d5f5)
 
-> 정상적으로 보이지만 다음으로 안 넘어가진다면 댓글 달아주세요.
+> 정상적으로 보이지만 다음으로 안 넘어가진다면 댓글 남겨주세요.
 {: .prompt-info }
