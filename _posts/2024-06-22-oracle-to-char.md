@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[Oracle] TO_CHAR"
+title: "[오라클] TO_CHAR"
 date: 2024-06-22 22:30 +0900
 description: 오라클 TO_CHAR
-category: [ORACLE]
-tags: [ORACLE]
+category: [SQL]
+tags: [ORACLE,오라클]
 ---
 ## TO_CHAR 함수란?
 - `TO_CHAR` 함수는 오라클에서 숫자 또는 날짜 값을 문자열로 변환하는 데 사용되는 함수

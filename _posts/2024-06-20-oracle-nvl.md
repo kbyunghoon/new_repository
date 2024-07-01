@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[Oracle] NVL 함수"
+title: "[오라클] NVL 함수"
 date: 2024-06-20 14:16 +0900
 description: 오라클 NVL 함수
 category: [ORACLE]
-tags: [ORACLE]
+tags: [ORACLE,오라클]
 ---
 ## NVL함수란?
 - <span style="background-color:#fff5b157">Oracle 데이터베이스에서 제공하는 함수</span>로, 지정된 열이나 표현식이 `NULL`인 경우 **원하는 대체 값으로 반환하고 싶을 때** 사용되는 함수
