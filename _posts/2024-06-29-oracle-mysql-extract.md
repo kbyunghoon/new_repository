@@ -25,15 +25,15 @@ EXTRACT(unit FROM date)
 
 #### 연도 추출
 ```sql
-SELECT EXTRACT(YEAR FROM '2024-06-01') AS year;
+SELECT EXTRACT(YEAR FROM '2024-06-29') AS year;
 ```
 
 #### 월 추출
 ```sql
-SELECT EXTRACT(MONTH FROM '2023-07-01') AS month;
+SELECT EXTRACT(MONTH FROM '2024-06-29') AS month;
 ```
 
 #### 일 추출
 ```sql
-SELECT EXTRACT(DAY FROM '2023-07-01') AS day;
+SELECT EXTRACT(DAY FROM '2024-06-29') AS day;
 ```

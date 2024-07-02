@@ -40,35 +40,35 @@ DATE_FORMAT(date, format)
 #### 날짜를 `YYYY-MM-DD` 형식으로 변환
 
 ```sql
-SELECT DATE_FORMAT('2024-07-01', '%Y-%m-%d') AS DATA;
+SELECT DATE_FORMAT('2024-06-30', '%Y-%m-%d') AS DATA;
 ```
 
 - 결과
 
 |    DATE    |
 | :--------: |
-| 2024-07-01 |
+| 2024-06-30 |
 
 #### 날짜를 `Month DD, YYYY` 형식으로 변환
 
 ```sql
-SELECT DATE_FORMAT('2024-07-01', '%M %d, %Y') AS DATE;
+SELECT DATE_FORMAT('2024-06-30', '%M %d, %Y') AS DATE;
 ```
 
 - 결과
 
 |     DATE      |
 | :-----------: |
-| July 01, 2024 |
+| June 30, 2024 |
 
 #### 날짜와 시간을 `YYYY-MM-DD HH:MI:SS` 형식으로 변환
 
 ```sql
-SELECT DATE_FORMAT('2024-07-01 20:00:00', '%Y-%m-%d %H:%i:%s') AS DATE;
+SELECT DATE_FORMAT('2024-06-30 20:00:00', '%Y-%m-%d %H:%i:%s') AS DATE;
 ```
 
 - 결과
 
 |        DATE         |
 | :-----------------: |
-| 2024-07-01 20:00:00 |
+| 2024-06-30 20:00:00 |
