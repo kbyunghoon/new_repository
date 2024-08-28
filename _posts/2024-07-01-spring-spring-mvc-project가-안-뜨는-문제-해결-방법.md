@@ -5,6 +5,8 @@ date: 2024-07-01 12:07 +0900
 description: Spring MVC Project가 안 뜨는 문제 해결 방법
 category: [ISSUE]
 tags: [STS, Spring, 스프링, MVC]
+image:
+  path: https://github.com/kbyunghoon/kbyunghoon.github.io/assets/79817983/78a87a08-7e9a-4c4b-aa16-02bb1486d5f5
 ---
 ## Spring MVC Project 템플릿이 안 보이는 문제
 ### 이슈
