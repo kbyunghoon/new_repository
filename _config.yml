@@ -23,7 +23,7 @@ tagline: Backend Developer # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
   자바 기술 공유하는 기술 블로그입니다.
 
-subdescription: 백엔드 지식을 공유하는 기술 블로그입니다.
+subdescription: 백엔드 지식을 공유하는<br/> 기술 블로그입니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

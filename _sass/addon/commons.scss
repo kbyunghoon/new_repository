@@ -1,5 +1,5 @@
 /* The common styles */
-@import 'https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css';
+@import url('https://webfontworld.github.io/gmarket/GmarketSans.css');
 
 html {
   @media (prefers-color-scheme: light) {
@@ -932,6 +932,11 @@ $btn-mb: 0.5rem;
 /* --- top-bar --- */
 
 #topbar-wrapper {
+  // z-index: 50;
+  // top: 20px;
+  // position: sticky;
+  // box-shadow: 0 16px 32px 0 rgba(14, 17, 31, .06);
+  // border-radius: 20px;
   height: $topbar-height;
   background-color: var(--topbar-bg);
 }

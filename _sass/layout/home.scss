@@ -24,6 +24,7 @@
     }
 
     .preview-img {
+      border: 1px solid silver;
       @extend %img-radius;
 
       img {
